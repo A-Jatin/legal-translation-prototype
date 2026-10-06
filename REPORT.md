@@ -20,7 +20,7 @@ Nineteen of the 31 outputs are identical. The remaining changes produced the sma
 
 There are also passages that retain the relevant conditions. Both systems preserve the four-month appointment deadline, temporary continuation, Article 142 and salary until regular appointment in `j04-p16`. For the archaic phrase “catena of decisions,” both use `निर्णयों के एक समूह`; the sufficient-cause condition survives, while “Limitation Act” becomes `सीमा अधिनियम` and needs terminology review.
 
-[Eight complete examples](results/primary/qualitative-examples.jsonl) contain the English, supplied reference, both outputs and observations. These observations are Codex inspection. The [12 blind examples](results/primary/review/review.md) have not yet received human Hindi ratings. I would not infer improved legal fidelity from the automatic scores alone.
+[Eight complete examples](results/primary/qualitative-examples.jsonl) contain the English, supplied reference, both outputs and observations. These observations are Codex inspection. The [12 blind examples](results/primary/review/review.md) are available for human Hindi ratings. I would not infer improved legal fidelity from the automatic scores alone.
 
 ## Where the token savings come from
 
