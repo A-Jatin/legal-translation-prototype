@@ -1,0 +1,62 @@
+[
+  {
+    "pair_id": "j01-p08",
+    "A": "adapted",
+    "B": "baseline"
+  },
+  {
+    "pair_id": "j04-p04",
+    "A": "adapted",
+    "B": "baseline"
+  },
+  {
+    "pair_id": "j04-p14",
+    "A": "baseline",
+    "B": "adapted"
+  },
+  {
+    "pair_id": "j21-p02",
+    "A": "adapted",
+    "B": "baseline"
+  },
+  {
+    "pair_id": "j01-p09",
+    "A": "adapted",
+    "B": "baseline"
+  },
+  {
+    "pair_id": "j04-p06",
+    "A": "adapted",
+    "B": "baseline"
+  },
+  {
+    "pair_id": "j04-p08",
+    "A": "adapted",
+    "B": "baseline"
+  },
+  {
+    "pair_id": "j21-p03",
+    "A": "adapted",
+    "B": "baseline"
+  },
+  {
+    "pair_id": "j01-p07",
+    "A": "baseline",
+    "B": "adapted"
+  },
+  {
+    "pair_id": "j01-p13",
+    "A": "adapted",
+    "B": "baseline"
+  },
+  {
+    "pair_id": "j04-p18",
+    "A": "adapted",
+    "B": "baseline"
+  },
+  {
+    "pair_id": "j21-p11",
+    "A": "adapted",
+    "B": "baseline"
+  }
+]

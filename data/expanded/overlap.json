@@ -1,0 +1,722 @@
+[
+  {
+    "heldout_id": "j09-p11",
+    "train_id": "j05-p17",
+    "shared_five_word_shingles": 31,
+    "jaccard": 0.47692307692307695
+  },
+  {
+    "heldout_id": "j09-p11",
+    "train_id": "j03-p07",
+    "shared_five_word_shingles": 23,
+    "jaccard": 0.3026315789473684
+  },
+  {
+    "heldout_id": "j09-p02",
+    "train_id": "j17-p01",
+    "shared_five_word_shingles": 22,
+    "jaccard": 0.27848101265822783
+  },
+  {
+    "heldout_id": "j09-p15",
+    "train_id": "j05-p24",
+    "shared_five_word_shingles": 17,
+    "jaccard": 0.1717171717171717
+  },
+  {
+    "heldout_id": "j09-p02",
+    "train_id": "j02-p01",
+    "shared_five_word_shingles": 16,
+    "jaccard": 0.13675213675213677
+  },
+  {
+    "heldout_id": "j09-p10",
+    "train_id": "j05-p15",
+    "shared_five_word_shingles": 15,
+    "jaccard": 0.3125
+  },
+  {
+    "heldout_id": "j09-p11",
+    "train_id": "j02-p11",
+    "shared_five_word_shingles": 15,
+    "jaccard": 0.2631578947368421
+  },
+  {
+    "heldout_id": "j09-p15",
+    "train_id": "j03-p12",
+    "shared_five_word_shingles": 14,
+    "jaccard": 0.18181818181818182
+  },
+  {
+    "heldout_id": "j09-p16",
+    "train_id": "j03-p13",
+    "shared_five_word_shingles": 14,
+    "jaccard": 0.1320754716981132
+  },
+  {
+    "heldout_id": "j09-p10",
+    "train_id": "j02-p04",
+    "shared_five_word_shingles": 13,
+    "jaccard": 0.24528301886792453
+  },
+  {
+    "heldout_id": "j09-p02",
+    "train_id": "j05-p02",
+    "shared_five_word_shingles": 10,
+    "jaccard": 0.08403361344537816
+  },
+  {
+    "heldout_id": "j09-p10",
+    "train_id": "j17-p11",
+    "shared_five_word_shingles": 9,
+    "jaccard": 0.34615384615384615
+  },
+  {
+    "heldout_id": "j09-p02",
+    "train_id": "j03-p02",
+    "shared_five_word_shingles": 8,
+    "jaccard": 0.0898876404494382
+  },
+  {
+    "heldout_id": "j09-p03",
+    "train_id": "j03-p03",
+    "shared_five_word_shingles": 7,
+    "jaccard": 0.3333333333333333
+  },
+  {
+    "heldout_id": "j09-p09",
+    "train_id": "j02-p08",
+    "shared_five_word_shingles": 7,
+    "jaccard": 0.08974358974358974
+  },
+  {
+    "heldout_id": "j09-p11",
+    "train_id": "j03-p12",
+    "shared_five_word_shingles": 6,
+    "jaccard": 0.06315789473684211
+  },
+  {
+    "heldout_id": "j09-p14",
+    "train_id": "j03-p12",
+    "shared_five_word_shingles": 6,
+    "jaccard": 0.06818181818181818
+  },
+  {
+    "heldout_id": "j08-p01",
+    "train_id": "j02-p01",
+    "shared_five_word_shingles": 5,
+    "jaccard": 0.026881720430107527
+  },
+  {
+    "heldout_id": "j08-p01",
+    "train_id": "j03-p02",
+    "shared_five_word_shingles": 5,
+    "jaccard": 0.03333333333333333
+  },
+  {
+    "heldout_id": "j08-p01",
+    "train_id": "j05-p02",
+    "shared_five_word_shingles": 5,
+    "jaccard": 0.027472527472527472
+  },
+  {
+    "heldout_id": "j08-p01",
+    "train_id": "j17-p01",
+    "shared_five_word_shingles": 5,
+    "jaccard": 0.032467532467532464
+  },
+  {
+    "heldout_id": "j08-p01",
+    "train_id": "j20-p02-v3",
+    "shared_five_word_shingles": 5,
+    "jaccard": 0.02976190476190476
+  },
+  {
+    "heldout_id": "j09-p02",
+    "train_id": "j20-p02-v3",
+    "shared_five_word_shingles": 5,
+    "jaccard": 0.045454545454545456
+  },
+  {
+    "heldout_id": "j09-p10",
+    "train_id": "j13-p10-v3",
+    "shared_five_word_shingles": 5,
+    "jaccard": 0.1111111111111111
+  },
+  {
+    "heldout_id": "j09-p14",
+    "train_id": "j05-p17",
+    "shared_five_word_shingles": 5,
+    "jaccard": 0.05952380952380952
+  },
+  {
+    "heldout_id": "j09-p14",
+    "train_id": "j05-p24",
+    "shared_five_word_shingles": 5,
+    "jaccard": 0.043859649122807015
+  },
+  {
+    "heldout_id": "j21-p02",
+    "train_id": "j02-p01",
+    "shared_five_word_shingles": 5,
+    "jaccard": 0.03333333333333333
+  },
+  {
+    "heldout_id": "j21-p02",
+    "train_id": "j03-p02",
+    "shared_five_word_shingles": 5,
+    "jaccard": 0.043859649122807015
+  },
+  {
+    "heldout_id": "j21-p02",
+    "train_id": "j05-p02",
+    "shared_five_word_shingles": 5,
+    "jaccard": 0.03424657534246575
+  },
+  {
+    "heldout_id": "j21-p02",
+    "train_id": "j17-p01",
+    "shared_five_word_shingles": 5,
+    "jaccard": 0.0423728813559322
+  },
+  {
+    "heldout_id": "j21-p02",
+    "train_id": "j20-p02-v3",
+    "shared_five_word_shingles": 5,
+    "jaccard": 0.03787878787878788
+  },
+  {
+    "heldout_id": "j24-p09",
+    "train_id": "j20-p02-v3",
+    "shared_five_word_shingles": 5,
+    "jaccard": 0.03571428571428571
+  },
+  {
+    "heldout_id": "j01-p05",
+    "train_id": "j05-p02",
+    "shared_five_word_shingles": 4,
+    "jaccard": 0.01762114537444934
+  },
+  {
+    "heldout_id": "j01-p05",
+    "train_id": "j18-p03-v3",
+    "shared_five_word_shingles": 4,
+    "jaccard": 0.018604651162790697
+  },
+  {
+    "heldout_id": "j04-p02",
+    "train_id": "j12-p01-v3",
+    "shared_five_word_shingles": 4,
+    "jaccard": 0.0547945205479452
+  },
+  {
+    "heldout_id": "j08-p02",
+    "train_id": "j20-p09-a-v3",
+    "shared_five_word_shingles": 4,
+    "jaccard": 0.029411764705882353
+  },
+  {
+    "heldout_id": "j09-p02",
+    "train_id": "j12-p01-v3",
+    "shared_five_word_shingles": 4,
+    "jaccard": 0.043010752688172046
+  },
+  {
+    "heldout_id": "j09-p02",
+    "train_id": "j18-p03-v3",
+    "shared_five_word_shingles": 4,
+    "jaccard": 0.035398230088495575
+  },
+  {
+    "heldout_id": "j09-p10",
+    "train_id": "j03-p05",
+    "shared_five_word_shingles": 4,
+    "jaccard": 0.11428571428571428
+  },
+  {
+    "heldout_id": "j09-p11",
+    "train_id": "j03-p13",
+    "shared_five_word_shingles": 4,
+    "jaccard": 0.037037037037037035
+  },
+  {
+    "heldout_id": "j09-p11",
+    "train_id": "j17-p16",
+    "shared_five_word_shingles": 4,
+    "jaccard": 0.05194805194805195
+  },
+  {
+    "heldout_id": "j09-p12",
+    "train_id": "j13-p13-v3",
+    "shared_five_word_shingles": 4,
+    "jaccard": 0.023809523809523808
+  },
+  {
+    "heldout_id": "j09-p13",
+    "train_id": "j05-p19",
+    "shared_five_word_shingles": 4,
+    "jaccard": 0.0380952380952381
+  },
+  {
+    "heldout_id": "j09-p14",
+    "train_id": "j03-p07",
+    "shared_five_word_shingles": 4,
+    "jaccard": 0.045454545454545456
+  },
+  {
+    "heldout_id": "j09-p15",
+    "train_id": "j02-p17",
+    "shared_five_word_shingles": 4,
+    "jaccard": 0.07142857142857142
+  },
+  {
+    "heldout_id": "j09-p15",
+    "train_id": "j17-p21",
+    "shared_five_word_shingles": 4,
+    "jaccard": 0.07547169811320754
+  },
+  {
+    "heldout_id": "j09-p17",
+    "train_id": "j03-p13",
+    "shared_five_word_shingles": 4,
+    "jaccard": 0.05063291139240506
+  },
+  {
+    "heldout_id": "j24-p04",
+    "train_id": "j20-p02-v3",
+    "shared_five_word_shingles": 4,
+    "jaccard": 0.04081632653061224
+  },
+  {
+    "heldout_id": "j01-p05",
+    "train_id": "j05-p13",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.012345679012345678
+  },
+  {
+    "heldout_id": "j01-p05",
+    "train_id": "j18-p07-v3",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.016216216216216217
+  },
+  {
+    "heldout_id": "j04-p02",
+    "train_id": "j02-p01",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.02727272727272727
+  },
+  {
+    "heldout_id": "j04-p02",
+    "train_id": "j03-p02",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.04054054054054054
+  },
+  {
+    "heldout_id": "j04-p02",
+    "train_id": "j05-p02",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.02830188679245283
+  },
+  {
+    "heldout_id": "j04-p02",
+    "train_id": "j10-p13-v3",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.04477611940298507
+  },
+  {
+    "heldout_id": "j04-p02",
+    "train_id": "j17-p01",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.038461538461538464
+  },
+  {
+    "heldout_id": "j04-p02",
+    "train_id": "j20-p02-v3",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.03260869565217391
+  },
+  {
+    "heldout_id": "j04-p07",
+    "train_id": "j18-p03-v3",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.03488372093023256
+  },
+  {
+    "heldout_id": "j04-p12",
+    "train_id": "j20-p09-a-v3",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.015625
+  },
+  {
+    "heldout_id": "j04-p13",
+    "train_id": "j10-p01-v3",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.014634146341463415
+  },
+  {
+    "heldout_id": "j08-p01",
+    "train_id": "j12-p01-v3",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.019736842105263157
+  },
+  {
+    "heldout_id": "j08-p01",
+    "train_id": "j30-p03-v3",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.019736842105263157
+  },
+  {
+    "heldout_id": "j08-p04",
+    "train_id": "j15-p12",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.015463917525773196
+  },
+  {
+    "heldout_id": "j09-p02",
+    "train_id": "j02-p03",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.024793388429752067
+  },
+  {
+    "heldout_id": "j09-p02",
+    "train_id": "j30-p11-v3",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.025
+  },
+  {
+    "heldout_id": "j09-p09",
+    "train_id": "j05-p14",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.05263157894736842
+  },
+  {
+    "heldout_id": "j09-p09",
+    "train_id": "j17-p01",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.04054054054054054
+  },
+  {
+    "heldout_id": "j09-p11",
+    "train_id": "j07-p05-v3",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.022727272727272728
+  },
+  {
+    "heldout_id": "j09-p15",
+    "train_id": "j03-p07",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.03488372093023256
+  },
+  {
+    "heldout_id": "j09-p15",
+    "train_id": "j13-p18-v3",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.05084745762711865
+  },
+  {
+    "heldout_id": "j09-p15",
+    "train_id": "j20-p13-v3",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.02857142857142857
+  },
+  {
+    "heldout_id": "j09-p16",
+    "train_id": "j03-p07",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.028846153846153848
+  },
+  {
+    "heldout_id": "j09-p16",
+    "train_id": "j05-p17",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.0297029702970297
+  },
+  {
+    "heldout_id": "j21-p02",
+    "train_id": "j12-p01-v3",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.02586206896551724
+  },
+  {
+    "heldout_id": "j24-p04",
+    "train_id": "j02-p01",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.02564102564102564
+  },
+  {
+    "heldout_id": "j24-p04",
+    "train_id": "j03-p02",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.037037037037037035
+  },
+  {
+    "heldout_id": "j24-p04",
+    "train_id": "j05-p02",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.02654867256637168
+  },
+  {
+    "heldout_id": "j24-p04",
+    "train_id": "j12-p01-v3",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.037037037037037035
+  },
+  {
+    "heldout_id": "j24-p04",
+    "train_id": "j17-p01",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.03529411764705882
+  },
+  {
+    "heldout_id": "j24-p05",
+    "train_id": "j20-p02-v3",
+    "shared_five_word_shingles": 3,
+    "jaccard": 0.033707865168539325
+  },
+  {
+    "heldout_id": "j01-p05",
+    "train_id": "j02-p03",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.008928571428571428
+  },
+  {
+    "heldout_id": "j01-p05",
+    "train_id": "j05-p15",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.009950248756218905
+  },
+  {
+    "heldout_id": "j01-p05",
+    "train_id": "j17-p01",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.009950248756218905
+  },
+  {
+    "heldout_id": "j01-p08",
+    "train_id": "j07-p05-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.01098901098901099
+  },
+  {
+    "heldout_id": "j01-p09",
+    "train_id": "j10-p04-a-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.01092896174863388
+  },
+  {
+    "heldout_id": "j01-p10",
+    "train_id": "j18-p05-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.00881057268722467
+  },
+  {
+    "heldout_id": "j04-p02",
+    "train_id": "j10-p01-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.020202020202020204
+  },
+  {
+    "heldout_id": "j04-p04",
+    "train_id": "j05-p04",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.017857142857142856
+  },
+  {
+    "heldout_id": "j04-p07",
+    "train_id": "j02-p03",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.02127659574468085
+  },
+  {
+    "heldout_id": "j04-p07",
+    "train_id": "j05-p15",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.028169014084507043
+  },
+  {
+    "heldout_id": "j04-p07",
+    "train_id": "j17-p01",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.028169014084507043
+  },
+  {
+    "heldout_id": "j04-p13",
+    "train_id": "j18-p03-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.009900990099009901
+  },
+  {
+    "heldout_id": "j04-p13",
+    "train_id": "j19-p01-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.0091324200913242
+  },
+  {
+    "heldout_id": "j04-p13",
+    "train_id": "j20-p09-a-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.01
+  },
+  {
+    "heldout_id": "j04-p15",
+    "train_id": "j07-p03-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.0056022408963585435
+  },
+  {
+    "heldout_id": "j04-p18",
+    "train_id": "j07-p12-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.05
+  },
+  {
+    "heldout_id": "j04-p18",
+    "train_id": "j07-p14-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.044444444444444446
+  },
+  {
+    "heldout_id": "j04-p18",
+    "train_id": "j28-p18-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.03508771929824561
+  },
+  {
+    "heldout_id": "j08-p01",
+    "train_id": "j02-p03",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.011111111111111112
+  },
+  {
+    "heldout_id": "j08-p01",
+    "train_id": "j05-p05",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.011428571428571429
+  },
+  {
+    "heldout_id": "j08-p01",
+    "train_id": "j19-p07-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.007633587786259542
+  },
+  {
+    "heldout_id": "j08-p04",
+    "train_id": "j18-p03-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.013888888888888888
+  },
+  {
+    "heldout_id": "j08-p04",
+    "train_id": "j30-p11-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.013333333333333334
+  },
+  {
+    "heldout_id": "j09-p02",
+    "train_id": "j05-p15",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.020202020202020204
+  },
+  {
+    "heldout_id": "j09-p02",
+    "train_id": "j30-p03-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.021052631578947368
+  },
+  {
+    "heldout_id": "j09-p03",
+    "train_id": "j13-p03-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.07692307692307693
+  },
+  {
+    "heldout_id": "j09-p04",
+    "train_id": "j05-p04",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.03508771929824561
+  },
+  {
+    "heldout_id": "j09-p04",
+    "train_id": "j17-p05",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.02531645569620253
+  },
+  {
+    "heldout_id": "j09-p09",
+    "train_id": "j02-p03",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.02040816326530612
+  },
+  {
+    "heldout_id": "j09-p09",
+    "train_id": "j05-p13",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.01694915254237288
+  },
+  {
+    "heldout_id": "j09-p09",
+    "train_id": "j13-p08-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.031746031746031744
+  },
+  {
+    "heldout_id": "j09-p11",
+    "train_id": "j05-p24",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.016129032258064516
+  },
+  {
+    "heldout_id": "j09-p11",
+    "train_id": "j12-p07-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.03508771929824561
+  },
+  {
+    "heldout_id": "j09-p14",
+    "train_id": "j13-p13-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.012903225806451613
+  },
+  {
+    "heldout_id": "j09-p14",
+    "train_id": "j30-p22-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.015625
+  },
+  {
+    "heldout_id": "j09-p15",
+    "train_id": "j05-p04",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.02666666666666667
+  },
+  {
+    "heldout_id": "j09-p15",
+    "train_id": "j05-p17",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.023809523809523808
+  },
+  {
+    "heldout_id": "j09-p15",
+    "train_id": "j17-p05",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.020618556701030927
+  },
+  {
+    "heldout_id": "j09-p17",
+    "train_id": "j05-p25",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.07142857142857142
+  },
+  {
+    "heldout_id": "j21-p02",
+    "train_id": "j16-p11-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.008888888888888889
+  },
+  {
+    "heldout_id": "j21-p02",
+    "train_id": "j30-p03-v3",
+    "shared_five_word_shingles": 2,
+    "jaccard": 0.017094017094017096
+  }
+]

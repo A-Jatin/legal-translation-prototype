@@ -1,0 +1,362 @@
+{
+  "1": {
+    "en": {
+      "total_characters": 9999,
+      "retained_characters": 4804,
+      "pairs": 9
+    },
+    "hi": {
+      "total_characters": 9219,
+      "retained_characters": 4342,
+      "pairs": 9
+    }
+  },
+  "2": {
+    "en": {
+      "total_characters": 5011,
+      "retained_characters": 3695,
+      "pairs": 13
+    },
+    "hi": {
+      "total_characters": 4545,
+      "retained_characters": 3360,
+      "pairs": 13
+    }
+  },
+  "3": {
+    "en": {
+      "total_characters": 4969,
+      "retained_characters": 1836,
+      "pairs": 8
+    },
+    "hi": {
+      "total_characters": 4814,
+      "retained_characters": 1712,
+      "pairs": 8
+    }
+  },
+  "4": {
+    "en": {
+      "total_characters": 9159,
+      "retained_characters": 9159,
+      "pairs": 18
+    },
+    "hi": {
+      "total_characters": 8155,
+      "retained_characters": 8155,
+      "pairs": 18
+    }
+  },
+  "5": {
+    "en": {
+      "total_characters": 8625,
+      "retained_characters": 7424,
+      "pairs": 22
+    },
+    "hi": {
+      "total_characters": 7811,
+      "retained_characters": 6589,
+      "pairs": 22
+    }
+  },
+  "6": {
+    "en": {
+      "total_characters": 6546,
+      "retained_characters": 0,
+      "pairs": 0
+    },
+    "hi": {
+      "total_characters": 5809,
+      "retained_characters": 0,
+      "pairs": 0
+    }
+  },
+  "7": {
+    "en": {
+      "total_characters": 8489,
+      "retained_characters": 2355,
+      "pairs": 5
+    },
+    "hi": {
+      "total_characters": 8605,
+      "retained_characters": 2108,
+      "pairs": 5
+    }
+  },
+  "8": {
+    "en": {
+      "total_characters": 8650,
+      "retained_characters": 1850,
+      "pairs": 3
+    },
+    "hi": {
+      "total_characters": 7730,
+      "retained_characters": 1614,
+      "pairs": 3
+    }
+  },
+  "9": {
+    "en": {
+      "total_characters": 4580,
+      "retained_characters": 4580,
+      "pairs": 17
+    },
+    "hi": {
+      "total_characters": 4275,
+      "retained_characters": 4275,
+      "pairs": 17
+    }
+  },
+  "10": {
+    "en": {
+      "total_characters": 10202,
+      "retained_characters": 3317,
+      "pairs": 8
+    },
+    "hi": {
+      "total_characters": 9457,
+      "retained_characters": 3078,
+      "pairs": 8
+    }
+  },
+  "11": {
+    "en": {
+      "total_characters": 4280,
+      "retained_characters": 0,
+      "pairs": 0
+    },
+    "hi": {
+      "total_characters": 4224,
+      "retained_characters": 0,
+      "pairs": 0
+    }
+  },
+  "12": {
+    "en": {
+      "total_characters": 6557,
+      "retained_characters": 4080,
+      "pairs": 8
+    },
+    "hi": {
+      "total_characters": 6028,
+      "retained_characters": 3758,
+      "pairs": 8
+    }
+  },
+  "13": {
+    "en": {
+      "total_characters": 5922,
+      "retained_characters": 1857,
+      "pairs": 7
+    },
+    "hi": {
+      "total_characters": 5994,
+      "retained_characters": 1970,
+      "pairs": 7
+    }
+  },
+  "14": {
+    "en": {
+      "total_characters": 7593,
+      "retained_characters": 0,
+      "pairs": 0
+    },
+    "hi": {
+      "total_characters": 7021,
+      "retained_characters": 0,
+      "pairs": 0
+    }
+  },
+  "15": {
+    "en": {
+      "total_characters": 10364,
+      "retained_characters": 1557,
+      "pairs": 4
+    },
+    "hi": {
+      "total_characters": 10228,
+      "retained_characters": 1536,
+      "pairs": 4
+    }
+  },
+  "16": {
+    "en": {
+      "total_characters": 9326,
+      "retained_characters": 4409,
+      "pairs": 8
+    },
+    "hi": {
+      "total_characters": 8779,
+      "retained_characters": 4040,
+      "pairs": 8
+    }
+  },
+  "17": {
+    "en": {
+      "total_characters": 5037,
+      "retained_characters": 3451,
+      "pairs": 16
+    },
+    "hi": {
+      "total_characters": 4756,
+      "retained_characters": 3222,
+      "pairs": 16
+    }
+  },
+  "18": {
+    "en": {
+      "total_characters": 5958,
+      "retained_characters": 4652,
+      "pairs": 11
+    },
+    "hi": {
+      "total_characters": 5194,
+      "retained_characters": 4105,
+      "pairs": 11
+    }
+  },
+  "19": {
+    "en": {
+      "total_characters": 7377,
+      "retained_characters": 2046,
+      "pairs": 4
+    },
+    "hi": {
+      "total_characters": 6941,
+      "retained_characters": 1908,
+      "pairs": 4
+    }
+  },
+  "20": {
+    "en": {
+      "total_characters": 12484,
+      "retained_characters": 2392,
+      "pairs": 6
+    },
+    "hi": {
+      "total_characters": 12100,
+      "retained_characters": 2272,
+      "pairs": 6
+    }
+  },
+  "21": {
+    "en": {
+      "total_characters": 13402,
+      "retained_characters": 1611,
+      "pairs": 4
+    },
+    "hi": {
+      "total_characters": 12875,
+      "retained_characters": 1532,
+      "pairs": 4
+    }
+  },
+  "22": {
+    "en": {
+      "total_characters": 6662,
+      "retained_characters": 0,
+      "pairs": 0
+    },
+    "hi": {
+      "total_characters": 6201,
+      "retained_characters": 0,
+      "pairs": 0
+    }
+  },
+  "23": {
+    "en": {
+      "total_characters": 13537,
+      "retained_characters": 0,
+      "pairs": 0
+    },
+    "hi": {
+      "total_characters": 12121,
+      "retained_characters": 0,
+      "pairs": 0
+    }
+  },
+  "24": {
+    "en": {
+      "total_characters": 17283,
+      "retained_characters": 2792,
+      "pairs": 6
+    },
+    "hi": {
+      "total_characters": 16196,
+      "retained_characters": 2518,
+      "pairs": 6
+    }
+  },
+  "25": {
+    "en": {
+      "total_characters": 15881,
+      "retained_characters": 0,
+      "pairs": 0
+    },
+    "hi": {
+      "total_characters": 14766,
+      "retained_characters": 0,
+      "pairs": 0
+    }
+  },
+  "26": {
+    "en": {
+      "total_characters": 5628,
+      "retained_characters": 0,
+      "pairs": 0
+    },
+    "hi": {
+      "total_characters": 5217,
+      "retained_characters": 0,
+      "pairs": 0
+    }
+  },
+  "27": {
+    "en": {
+      "total_characters": 6060,
+      "retained_characters": 190,
+      "pairs": 3
+    },
+    "hi": {
+      "total_characters": 5945,
+      "retained_characters": 180,
+      "pairs": 3
+    }
+  },
+  "28": {
+    "en": {
+      "total_characters": 13424,
+      "retained_characters": 2918,
+      "pairs": 10
+    },
+    "hi": {
+      "total_characters": 11965,
+      "retained_characters": 2669,
+      "pairs": 10
+    }
+  },
+  "29": {
+    "en": {
+      "total_characters": 6495,
+      "retained_characters": 0,
+      "pairs": 0
+    },
+    "hi": {
+      "total_characters": 5929,
+      "retained_characters": 0,
+      "pairs": 0
+    }
+  },
+  "30": {
+    "en": {
+      "total_characters": 9793,
+      "retained_characters": 4461,
+      "pairs": 12
+    },
+    "hi": {
+      "total_characters": 9141,
+      "retained_characters": 4086,
+      "pairs": 12
+    }
+  }
+}

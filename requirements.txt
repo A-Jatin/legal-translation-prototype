@@ -1,0 +1,11 @@
+# Validated local environment; requirements.lock records the installed resolution.
+torch==2.14.0
+transformers==4.57.6
+peft==0.21.0
+accelerate==1.15.0
+IndicTransToolkit==1.1.1
+numpy==2.4.6
+datasets==5.0.1
+sentencepiece==0.2.2
+sacrebleu==2.6.0
+tiktoken==0.14.0

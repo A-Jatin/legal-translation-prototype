@@ -1,0 +1,95 @@
+{
+  "overall": {
+    "n": 31,
+    "indic_bleu": 5.696532834421177,
+    "chrf": 21.546548754844075,
+    "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:none|smooth:exp|version:2.6.0",
+    "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+    "generation_limit_hits": 0
+  },
+  "per_judgment": {
+    "1": {
+      "n": 9,
+      "indic_bleu": 6.633447158130905,
+      "chrf": 24.25599039334397,
+      "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:none|smooth:exp|version:2.6.0",
+      "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "generation_limit_hits": 0
+    },
+    "4": {
+      "n": 18,
+      "indic_bleu": 4.206240596659138,
+      "chrf": 19.088937872362912,
+      "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:none|smooth:exp|version:2.6.0",
+      "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "generation_limit_hits": 0
+    },
+    "21": {
+      "n": 4,
+      "indic_bleu": 10.750554248387179,
+      "chrf": 26.78084962267548,
+      "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:none|smooth:exp|version:2.6.0",
+      "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "generation_limit_hits": 0
+    }
+  },
+  "source_token_groups": {
+    "1-64": {
+      "n": 11,
+      "indic_bleu": 7.77630317815745,
+      "chrf": 25.118193095874858,
+      "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:none|smooth:exp|version:2.6.0",
+      "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "generation_limit_hits": 0
+    },
+    "65-128": {
+      "n": 4,
+      "indic_bleu": 2.862284458383043,
+      "chrf": 15.754131779864858,
+      "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:none|smooth:exp|version:2.6.0",
+      "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "generation_limit_hits": 0
+    },
+    "129-256": {
+      "n": 16,
+      "indic_bleu": 5.758221422389033,
+      "chrf": 21.91044866544598,
+      "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:none|smooth:exp|version:2.6.0",
+      "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "generation_limit_hits": 0
+    }
+  },
+  "versions": {
+    "sacrebleu": "2.6.0",
+    "indic-nlp-library-itt": "0.1.1"
+  },
+  "normalization": "NFC, whitespace collapse; BLEU Indic trivial_tokenize(hi); chrF detokenized, whitespace ignored",
+  "reference_quality_groups": {
+    "no_material_flag": {
+      "n": 16,
+      "indic_bleu": 7.694674056904901,
+      "chrf": 24.10695469914365,
+      "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:none|smooth:exp|version:2.6.0",
+      "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "generation_limit_hits": 0
+    },
+    "material_reference_flag": {
+      "n": 13,
+      "indic_bleu": 4.662579852110594,
+      "chrf": 20.192199400835143,
+      "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:none|smooth:exp|version:2.6.0",
+      "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "generation_limit_hits": 0
+    },
+    "minor_reference_flag": {
+      "n": 2,
+      "indic_bleu": 2.162164843589469,
+      "chrf": 19.247466642435683,
+      "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:none|smooth:exp|version:2.6.0",
+      "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "generation_limit_hits": 0
+    }
+  },
+  "reference_quality_note": "Codex reference inspection, not human validation. Diagnostic groups; all examples retained in overall scores.",
+  "note": "Historical model outputs, rescored against restored original Hindi paragraph; not retrained. Source-token bins retain original model counts."
+}

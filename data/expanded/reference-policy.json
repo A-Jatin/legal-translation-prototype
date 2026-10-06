@@ -1,0 +1,8 @@
+{
+  "experiment": "coverage-v3",
+  "parent": "indictrans2-corrected-v2",
+  "training": "Original63 references preserved; new supplied-reference spans retained only after bilingual inspection. No semantic rewrites or synthetic training examples.",
+  "heldout": "All57 IDs, sources, targets and boundaries unchanged. Semantic defects annotated; no new blind holdout claim.",
+  "overlap": "Retain exact heldout-source duplicate removal and report shared passage shingles.",
+  "human_review": "Pending; all preparation judgments are Codex observations."
+}

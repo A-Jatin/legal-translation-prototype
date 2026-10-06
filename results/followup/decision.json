@@ -1,0 +1,16 @@
+{
+  "selected_run": "C",
+  "selected_checkpoint": "results/followup/C/checkpoint-48",
+  "development_chrf": 59.05663729499449,
+  "eligible_runs": [
+    "A",
+    "B",
+    "C"
+  ],
+  "test_used_for_selection": false,
+  "selected_at": "2026-10-01T11:10:08.073067+00:00",
+  "adapter_sha256": "9d2ff9fce86510a33229212ebc914d408ab668362303bde882807a2723394dea",
+  "data_sha256": "255e74e9ccc22d1a4a1fc54c7844727f5160b6179e7b164f87a5048cab8bef51",
+  "reason": "Highest development chrF across A/B/C; all selected checkpoints inspected against English. No new critical party/negation/disposition reversal observed; new omissions and inherited major errors disclosed in dev-fidelity.jsonl. Earlier corrected adapter dev chrF57.88513 is lower. This is Codex inspection, not human certification.",
+  "scope": "Fixed known test set previously inspected during audit. No new A/B/C test predictions generated before this decision."
+}

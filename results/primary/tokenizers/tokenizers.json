@@ -1,0 +1,286 @@
+{
+  "lexical": {
+    "cl100k_base": {
+      "en": {
+        "total_tokens": 9460,
+        "total_whitespace_words": 7171,
+        "tokens_per_word": 1.3192023427694881,
+        "median": 65.5,
+        "p95": 167,
+        "over_256": 0,
+        "over_512": 0,
+        "n": 120,
+        "special_tokens": 0,
+        "unknown": 0,
+        "unknown_fraction": 0.0
+      },
+      "hi": {
+        "total_tokens": 37444,
+        "total_whitespace_words": 7285,
+        "tokens_per_word": 5.139876458476321,
+        "median": 270.5,
+        "p95": 647,
+        "over_256": 65,
+        "over_512": 20,
+        "n": 120,
+        "special_tokens": 0,
+        "unknown": 0,
+        "unknown_fraction": 0.0
+      },
+      "hindi_english_ratio": 3.958139534883721,
+      "hindi_reduction_vs_cl100k": 0.0
+    },
+    "o200k_base": {
+      "en": {
+        "total_tokens": 9425,
+        "total_whitespace_words": 7171,
+        "tokens_per_word": 1.3143215730023707,
+        "median": 65.5,
+        "p95": 166,
+        "over_256": 0,
+        "over_512": 0,
+        "n": 120,
+        "special_tokens": 0,
+        "unknown": 0,
+        "unknown_fraction": 0.0
+      },
+      "hi": {
+        "total_tokens": 12508,
+        "total_whitespace_words": 7285,
+        "tokens_per_word": 1.7169526424159232,
+        "median": 92.0,
+        "p95": 220,
+        "over_256": 3,
+        "over_512": 0,
+        "n": 120,
+        "special_tokens": 0,
+        "unknown": 0,
+        "unknown_fraction": 0.0
+      },
+      "hindi_english_ratio": 1.3271087533156498,
+      "hindi_reduction_vs_cl100k": 0.6659544920414486
+    },
+    "native": {
+      "en": {
+        "total_tokens": 9324,
+        "total_whitespace_words": 7171,
+        "tokens_per_word": 1.3002370659601172,
+        "median": 64.0,
+        "p95": 169,
+        "over_256": 0,
+        "over_512": 0,
+        "n": 120,
+        "special_tokens": 360,
+        "unknown": 408,
+        "unknown_fraction": 0.043758043758043756
+      },
+      "hi": {
+        "total_tokens": 9256,
+        "total_whitespace_words": 7285,
+        "tokens_per_word": 1.2705559368565547,
+        "median": 67.5,
+        "p95": 159,
+        "over_256": 0,
+        "over_512": 0,
+        "n": 120,
+        "special_tokens": 120,
+        "unknown": 21,
+        "unknown_fraction": 0.002268798617113224
+      },
+      "hindi_english_ratio": 0.9927069927069927,
+      "hindi_reduction_vs_cl100k": 0.7528041875867963
+    }
+  },
+  "terms": {
+    "न्यायालय": {
+      "native": [
+        "▁न्यायालय"
+      ],
+      "cl100k_base": [
+        "e0a4a8",
+        "e0a58de0a4",
+        "af",
+        "e0a4bee0a4",
+        "af",
+        "e0a4bee0a4",
+        "b2",
+        "e0a4",
+        "af"
+      ],
+      "o200k_base": [
+        "e0a4a8",
+        "e0a58de0a4af",
+        "e0a4bee0a4af",
+        "e0a4bee0a4b2e0a4af"
+      ]
+    },
+    "अधिकारिता": {
+      "native": [
+        "▁अधिकार",
+        "िता"
+      ],
+      "cl100k_base": [
+        "e0a4",
+        "85",
+        "e0a4",
+        "a7",
+        "e0a4bfe0a4",
+        "95",
+        "e0a4bee0a4",
+        "b0",
+        "e0a4bfe0a4",
+        "a4",
+        "e0a4be"
+      ],
+      "o200k_base": [
+        "e0a485",
+        "e0a4a7",
+        "e0a4bfe0a495e0a4bee0a4b0",
+        "e0a4bfe0a4a4e0a4be"
+      ]
+    },
+    "अपील खारिज": {
+      "native": [
+        "▁अपील",
+        "▁खारिज"
+      ],
+      "cl100k_base": [
+        "e0a4",
+        "85",
+        "e0a4aa",
+        "e0a580",
+        "e0a4b2",
+        "20e0a4",
+        "96",
+        "e0a4bee0a4",
+        "b0",
+        "e0a4bfe0a4",
+        "9c"
+      ],
+      "o200k_base": [
+        "e0a485e0a4aa",
+        "e0a580e0a4b2",
+        "20e0a496",
+        "e0a4bee0a4b0",
+        "e0a4bfe0a49c"
+      ]
+    },
+    "प्राकृतिक न्याय": {
+      "native": [
+        "▁प्राकृतिक",
+        "▁न्याय"
+      ],
+      "cl100k_base": [
+        "e0a4aa",
+        "e0a58de0a4b0",
+        "e0a4bee0a4",
+        "95",
+        "e0a5",
+        "83",
+        "e0a4a4",
+        "e0a4bfe0a4",
+        "95",
+        "20e0a4",
+        "a8",
+        "e0a58de0a4",
+        "af",
+        "e0a4bee0a4",
+        "af"
+      ],
+      "o200k_base": [
+        "e0a4aae0a58de0a4b0",
+        "e0a4bee0a495e0a583e0a4a4e0a4bfe0a495",
+        "20e0a4a8e0a58de0a4afe0a4bee0a4af"
+      ]
+    },
+    "धारा 9-क(2)": {
+      "native": [
+        "▁धारा",
+        "▁9",
+        "-",
+        "क",
+        "(",
+        "2",
+        ")"
+      ],
+      "cl100k_base": [
+        "e0a4",
+        "a7",
+        "e0a4bee0a4",
+        "b0",
+        "e0a4be",
+        "20",
+        "39",
+        "2d",
+        "e0a495",
+        "28",
+        "32",
+        "29"
+      ],
+      "o200k_base": [
+        "e0a4a7",
+        "e0a4bee0a4b0e0a4be",
+        "20",
+        "39",
+        "2de0a495",
+        "28",
+        "32",
+        "29"
+      ]
+    },
+    "24.01.2005": {
+      "native": [
+        "▁24",
+        ".01",
+        ".2",
+        "00",
+        "5"
+      ],
+      "cl100k_base": [
+        "3234",
+        "2e",
+        "3031",
+        "2e",
+        "323030",
+        "35"
+      ],
+      "o200k_base": [
+        "3234",
+        "2e",
+        "3031",
+        "2e",
+        "323030",
+        "35"
+      ]
+    }
+  },
+  "config": {
+    "model_id": "ai4bharat/indictrans2-en-indic-dist-200M",
+    "revision": "173b94239f7c38886b2747b8d4a5db771a7e1232",
+    "device": "auto",
+    "cache_dir": ".cache/huggingface",
+    "seed": 42,
+    "token_limit": 256,
+    "generation_limit": 255,
+    "num_beams": 4,
+    "inference_batch_size": 2,
+    "rank": 8,
+    "alpha": 16,
+    "dropout": 0.05,
+    "learning_rate": 0.0002,
+    "microbatch": 2,
+    "accumulation": 8,
+    "step_limit": 250,
+    "experiment_id": "indictrans2-corrected-v2",
+    "target_padding": "right"
+  },
+  "content_sha256": "b3ccbd0181c047f5a84d136e81721bbb1a1c9dd04bd977855e0512eb38b7cb5b",
+  "versions": {
+    "tiktoken": "0.14.0",
+    "transformers": "4.57.6",
+    "sentencepiece": "0.2.2",
+    "IndicTransToolkit": "1.1.1"
+  },
+  "term_format": "Native token pieces; tiktoken pieces as UTF-8 bytes in hex (some tokens split codepoints).",
+  "note": "Identical NFC text, native source/target modes. Pipeline preprocessing is counted separately. Fixed encodings do not change with LoRA."
+}

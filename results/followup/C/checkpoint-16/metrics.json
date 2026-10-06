@@ -1,0 +1,111 @@
+{
+  "overall": {
+    "n": 26,
+    "indic_bleu": 31.78955793375511,
+    "chrf": 58.35861367264433,
+    "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:none|smooth:exp|version:2.6.0",
+    "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+    "generation_limit_hits": 0
+  },
+  "per_judgment": {
+    "8": {
+      "n": 3,
+      "indic_bleu": 46.157983577735344,
+      "chrf": 68.85373405449688,
+      "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:none|smooth:exp|version:2.6.0",
+      "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "generation_limit_hits": 0
+    },
+    "9": {
+      "n": 17,
+      "indic_bleu": 21.203909229402388,
+      "chrf": 49.58123645789205,
+      "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:none|smooth:exp|version:2.6.0",
+      "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "generation_limit_hits": 0
+    },
+    "24": {
+      "n": 6,
+      "indic_bleu": 37.49971008655502,
+      "chrf": 66.34301833768934,
+      "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:none|smooth:exp|version:2.6.0",
+      "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "generation_limit_hits": 0
+    }
+  },
+  "source_token_groups": {
+    "1-64": {
+      "n": 11,
+      "indic_bleu": 24.296564244257873,
+      "chrf": 51.22280219904771,
+      "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:none|smooth:exp|version:2.6.0",
+      "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "generation_limit_hits": 0
+    },
+    "65-128": {
+      "n": 13,
+      "indic_bleu": 34.26414093495535,
+      "chrf": 60.676830531662006,
+      "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:none|smooth:exp|version:2.6.0",
+      "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "generation_limit_hits": 0
+    },
+    "129-256": {
+      "n": 2,
+      "indic_bleu": 31.8540790626193,
+      "chrf": 59.32179915700537,
+      "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:none|smooth:exp|version:2.6.0",
+      "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "generation_limit_hits": 0
+    }
+  },
+  "versions": {
+    "sacrebleu": "2.6.0",
+    "indic-nlp-library-itt": "0.1.1"
+  },
+  "normalization": "NFC, whitespace collapse; BLEU Indic trivial_tokenize(hi); chrF detokenized, whitespace ignored",
+  "reference_quality_groups": {
+    "no_material_flag": {
+      "n": 15,
+      "indic_bleu": 36.05059166126339,
+      "chrf": 62.60932260370621,
+      "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:none|smooth:exp|version:2.6.0",
+      "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "generation_limit_hits": 0
+    },
+    "material_reference_flag": {
+      "n": 10,
+      "indic_bleu": 22.338294901274793,
+      "chrf": 50.821599316038366,
+      "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:none|smooth:exp|version:2.6.0",
+      "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "generation_limit_hits": 0
+    },
+    "minor_reference_flag": {
+      "n": 1,
+      "indic_bleu": 43.909262521522855,
+      "chrf": 64.96540882832039,
+      "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:none|smooth:exp|version:2.6.0",
+      "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "generation_limit_hits": 0
+    }
+  },
+  "reference_quality_note": "Codex reference inspection, not human validation. Diagnostic groups; all examples retained in overall scores.",
+  "timing": {
+    "seconds": 44.338240666897036,
+    "generated_tokens": 2022,
+    "tokens_per_second": 45.603974573344466,
+    "examples_per_second": 0.5864012556414224,
+    "source_padding_fraction": 0.029383886255924172,
+    "device": "mps",
+    "platform": "macOS-26.6.2-arm64-arm-64bit",
+    "torch": "2.14.0",
+    "inference_batch_size": 2,
+    "precision": "float32",
+    "attention": "eager",
+    "timing": "after warmup; synchronized preprocess+generate+postprocess; excludes loading and length sorting",
+    "num_beams": 4,
+    "generation_limit": 255,
+    "examples_with_unverified_dates": 2
+  }
+}

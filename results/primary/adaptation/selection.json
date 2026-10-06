@@ -1,0 +1,39 @@
+{
+  "config": {
+    "model_id": "ai4bharat/indictrans2-en-indic-dist-200M",
+    "revision": "173b94239f7c38886b2747b8d4a5db771a7e1232",
+    "device": "auto",
+    "cache_dir": ".cache/huggingface",
+    "seed": 42,
+    "token_limit": 256,
+    "generation_limit": 255,
+    "num_beams": 4,
+    "inference_batch_size": 2,
+    "rank": 8,
+    "alpha": 16,
+    "dropout": 0.05,
+    "learning_rate": 0.0002,
+    "microbatch": 2,
+    "accumulation": 8,
+    "step_limit": 250,
+    "experiment_id": "indictrans2-corrected-v2",
+    "target_padding": "right"
+  },
+  "data_sha256": "ecc99aa202b32d8552e47068224041cbf9d2a1fd7b3ce4d81caf6fb9d3cf3cba",
+  "adapter_sha256": "5c355e5c0a3965b8c4d1804dd458ee9ac2723023462ab39148ee8e1797310cb8",
+  "adapter_config_sha256": "fea1d480f104cf3e6974a2ada229e0c8bc59777c171fc8e816b6eced2c922526",
+  "best_checkpoint": "results/primary/adaptation/checkpoint-12",
+  "development_chrf": 57.88513498807226,
+  "baseline_development_chrf": 57.488898541751354,
+  "preferred_system": "adapted",
+  "selection": "highest dev chrF; strict ties select earlier checkpoint; baseline preferred on no gain",
+  "optimizer_steps": 12,
+  "epochs": 3.0,
+  "training_and_dev_seconds": 142.5705739579862,
+  "padding": {
+    "slots": 13372,
+    "actual": 12528,
+    "target_slots": 13229,
+    "target_actual": 12114
+  }
+}

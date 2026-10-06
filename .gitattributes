@@ -1,0 +1,2 @@
+# Preserve source bytes across clones; input hashes include original line endings.
+data/*/raw/** -text

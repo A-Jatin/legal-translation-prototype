@@ -1,0 +1,11 @@
+{
+  "sha256": "ecc99aa202b32d8552e47068224041cbf9d2a1fd7b3ce4d81caf6fb9d3cf3cba",
+  "model_id": "ai4bharat/indictrans2-en-indic-dist-200M",
+  "revision": "173b94239f7c38886b2747b8d4a5db771a7e1232",
+  "token_limit": 256,
+  "frozen_at": "2026-09-30T09:08:26.915323+00:00",
+  "corrections_sha256": "5aeca87f609a9f528f49c52ba5070df09d333d3eba1add75c569fcc46d3cdd04",
+  "manifest_sha256": "93b62920db16d7ff45e5dde693a0963ffa6e4859955e8c260eb666de47bffd8b",
+  "architecture_limit": 256,
+  "normalization": "UTF-8 BOM removal, LF line endings, NFC, within-line whitespace collapse"
+}

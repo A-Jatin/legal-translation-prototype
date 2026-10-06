@@ -1,0 +1,28 @@
+{
+  "unit": "documents",
+  "examples": 25,
+  "excluded": [
+    {
+      "judgment_id": 6,
+      "reason": "No Devanagari in supplied Hindi extraction"
+    },
+    {
+      "judgment_id": 14,
+      "reason": "No Devanagari in supplied Hindi extraction"
+    },
+    {
+      "judgment_id": 22,
+      "reason": "No Devanagari in supplied Hindi extraction"
+    },
+    {
+      "judgment_id": 25,
+      "reason": "No Devanagari in supplied Hindi extraction"
+    },
+    {
+      "judgment_id": 26,
+      "reason": "No Devanagari in supplied Hindi extraction"
+    }
+  ],
+  "selection": "Has Devanagari; no model length filter",
+  "data_sha256": null
+}

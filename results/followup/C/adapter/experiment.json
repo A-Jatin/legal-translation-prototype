@@ -1,0 +1,30 @@
+{
+  "model_id": "ai4bharat/indictrans2-en-indic-dist-200M",
+  "revision": "173b94239f7c38886b2747b8d4a5db771a7e1232",
+  "device": "auto",
+  "cache_dir": ".cache/huggingface",
+  "seed": 42,
+  "token_limit": 256,
+  "generation_limit": 255,
+  "num_beams": 4,
+  "inference_batch_size": 2,
+  "rank": 8,
+  "alpha": 16,
+  "dropout": 0.05,
+  "learning_rate": 0.0002,
+  "microbatch": 2,
+  "accumulation": 2,
+  "step_limit": 48,
+  "experiment_id": "indictrans2-coverage-c-v3",
+  "target_padding": "right",
+  "evaluation_steps": 16,
+  "target_modules": [
+    "q_proj",
+    "k_proj",
+    "v_proj",
+    "out_proj"
+  ],
+  "data_sha256": "255e74e9ccc22d1a4a1fc54c7844727f5160b6179e7b164f87a5048cab8bef51",
+  "adapter_sha256": "9d2ff9fce86510a33229212ebc914d408ab668362303bde882807a2723394dea",
+  "adapter_config_sha256": "aa3612d9049829b65386ef4c445bac7894cab127163c7126958b3edf5ef71db4"
+}

@@ -1,0 +1,29 @@
+{
+  "experiment_id": "indictrans2-corrected-v2",
+  "selection_metric": "development chrF on all26 original-reference passages",
+  "test_policy": "All31 IDs and sources fixed. Restore j21-p03 complete raw reference only; no semantic rewrites of supplied Hindi. Previously inspected test set; no pristine holdout claim.",
+  "training_policy": "63 examples:70 previously inspected training pairs minus7 material reference defects; no external data.",
+  "excluded_training_ids": [
+    "j02-p12",
+    "j03-p08",
+    "j15-p01",
+    "j15-p02",
+    "j17-p09",
+    "j17-p18",
+    "j17-p20"
+  ],
+  "reference_review": "127 pairs inspected by Codex, not human. Quality flags retained separately from alignment status.",
+  "preparation_erratum": {
+    "pair_id": "j21-p03",
+    "old_target_span": [
+      516,
+      845
+    ],
+    "new_target_span": [
+      516,
+      913
+    ],
+    "original_frozen_sha256": "d04ad40fcab20b55acf8530a00543e1f60d182f9ca493ab8af908770c0b1a80c"
+  },
+  "original_manifest_sha256": "c32788da7b5a9cbcddc2c97dc086b8bf76ad6a3af9d05a31fa9a44bc56829c2f"
+}

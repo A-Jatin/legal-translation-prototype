@@ -1,0 +1,12 @@
+.venv/
+.cache/
+.local/
+runs/
+dist/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.env.*
+.DS_Store
+*.zip

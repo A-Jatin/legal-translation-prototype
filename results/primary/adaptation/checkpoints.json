@@ -1,0 +1,20 @@
+[
+  {
+    "step": 4,
+    "epoch": 1.0,
+    "chrf": 57.44385771016166,
+    "checkpoint": "results/primary/adaptation/checkpoint-4"
+  },
+  {
+    "step": 8,
+    "epoch": 2.0,
+    "chrf": 57.642851729274156,
+    "checkpoint": "results/primary/adaptation/checkpoint-8"
+  },
+  {
+    "step": 12,
+    "epoch": 3.0,
+    "chrf": 57.88513498807226,
+    "checkpoint": "results/primary/adaptation/checkpoint-12"
+  }
+]

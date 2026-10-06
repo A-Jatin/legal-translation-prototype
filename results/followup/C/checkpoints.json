@@ -1,0 +1,20 @@
+[
+  {
+    "step": 16,
+    "epoch": 0.4383561643835616,
+    "chrf": 58.35861367264433,
+    "checkpoint": "results/followup/C/checkpoint-16"
+  },
+  {
+    "step": 32,
+    "epoch": 0.8767123287671232,
+    "chrf": 59.03827901488344,
+    "checkpoint": "results/followup/C/checkpoint-32"
+  },
+  {
+    "step": 48,
+    "epoch": 1.3013698630136985,
+    "chrf": 59.05663729499449,
+    "checkpoint": "results/followup/C/checkpoint-48"
+  }
+]

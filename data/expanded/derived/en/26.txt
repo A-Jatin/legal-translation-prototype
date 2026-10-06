@@ -1,0 +1,105 @@
+1. The question which is urged in all these appeals is the correctness of the view of
+
+the High Court that the process which the product in the present case underwent — i.e.,
+mixture of the base paint with different colours — did not result in a ‘new’ product, and
+therefore did not result from the process of ‘manufacture’ as defined under Section
+
+toh of the U.P. Trade Tax Act, 1948 (“Act”).
+
+Reason:
+
+2. The facts in all these cases are that the assessees are dealers in inter alia paints.
+
+The Revenue contended that the sale of paints which had undergone mixing (through
+a computerised process with the aid of a DTS machine) amounted to ‘manufacture’,
+thereby resulting in a new product, which was a fresh incidence of taxation. The
+assessee on the other hand contended that mixing per se did not amount to
+‘manufacture’, and that on an application of the established principles, no new
+recognizable product or article had emerged from the process. It is a matter of record
+
+that both the base paint and the colourant are taxed separately.
+
+3. The High Court on a previous occasion had accepted the assessees’ contentions
+and held that the process did not amount to ‘manufacture’. Upon the Revenue’s appeal
+in some cases, this Court had remitted the matter for fresh consideration after taking
+into account expert opinion. The process was observed, and a report dated 20.01.2004
+was issued by the Harcourt Butler Technical University, Kanpur. The said report
+
+pertinently stated as follows: -
+
+“The base paint used in “point of Sale” tinting systems itself, therefore, is a
+
+paint irrespective of colourant being added to get a desired shade or colour. It
+
+is in the form of paint and possession the basic ingredients and characteristics.
+
+The tinting does not bring new or different product into existence. The base
+
+paint can also be used as paint.”
+4. In the impugned order, the High Court after noticing a judgment of this court in
+State of Maharashtra Vs. Mahalaxmi Stores (2003) 1 SCC 70, held that the process
+involved in the present case did not amount to ‘manufacture’. The High Court also
+
+distinguished the ruling in Sonebhadra Fuels Vs. Commissioner Trade Tax, U.P.,
+
+Lucknow (2006) 7 SCC 322. Therefore, the High Court allowed the revisions filed
+
+before it.
+
+5. The Revenue urged that the findings in the impugned order are erroneous, and
+relied upon Sonebhadra Fuels (supra) to argue that the High Court was bound by this
+Court’s decision since it was directly on an interpretation of the expression
+‘manufacture’ in the same enactment. In Sonebhadra Fuels, the court had considered
+whether coal briquettes fell with the generic description of ‘coal’. This court held that
+the process involved mixing crushed coal with suitable binders pressed in briquetting
+press, from which regular shaped briquettes were suitably carbonised. This process
+
+was held to amount to ‘manufacture’.
+
+6. The definition of ‘manufacture’ under the Act is as follows: -
+
+“2. (e-1).. ‘manufacture’ means producing, making, mining, collecting,
+extracting, altering, ornamenting, finishing or otherwise processing, treating or
+adapting any goods; but does not include such manufactures or manufacturing
+processes as may be prescribed.”
+
+7. In Mahalaxmi Stores (supra), this court relied on previous decisions such as
+Commissioner of Sales Tax Vs. Pio Food Packers (1980) Suppl. SCC 174, and
+Chowgule and Company(P) Limited Vs. Union of India (1981) 1 SCC 653 to state that
+the manufacturing process can vary, and that the process of producing every type of
+variation, or finishing of goods, would not amount to ‘manufacture’ as contained in
+
+the statute unless it resulted in the emergence of a new commercial commodity.
+
+8. In Sonhbadra, this court while deciding the facts of the case before it cited a
+
+large number of decisions rendered in the context of what was meant by
+
+‘manufacture.’ This court specifically noticed in Union of India V. Delhi Cloth and
+General Mills (1963) Suppl. 1 SCR 586 that ‘manufacture’ meant bringing into
+existence a ‘new’ substance and did not mean merely to bring about some change in
+the substance. In Mahalaxmi Stores, it was held that processing or variation/finishing
+of goods would not per se amount to manufacture unless it resulted in the emergence
+of a new commercial commodity. The decision in Aspinwall & Co. Ltd. V.
+Commissioner of Income Tax, Ernakulam (2001) 7 SCC 525 follows the same
+principle. The court held that manufacture must be understood in common parlance
+and means production of articles for use from raw or prepared materials by giving
+them forms, qualities or combination. Importantly however, it was held that if the
+change made in the article resulted in a ‘new’ and ‘different’ article, it would amount
+to ‘manufacturing’. The tipping point, or the determinative test, therefore is that the
+result of the process (amounting to ‘manufacture’) must be the emergence of a
+
+commercially recognizable new commodity, and not mere variation of an existing one.
+
+9. In the present case, the findings based on the expert’s evidence are that the base
+paint was mixed with colouring as an additive. Both of these had suffered tax. The
+resultant article i.e., the paint of a different shade, did not result in a new commercial
+product. In common parlance, the new product was nothing else but ‘paint’, and not a
+
+different article.
+
+10. In these circumstances, in the opinion of this Court, the High Court did not fall
+
+into error. The appeals therefore fail, and are hence dismissed. Pending application(s),
+
+if any, shall stand disposed of. There shall be no order as to costs.
